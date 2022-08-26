@@ -1,0 +1,1369 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661544090200,657,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,63,0,32
+1661544090200,63,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,63,0,32
+1661544090264,593,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,592,0,468
+1661544089783,1087,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,248,0,211
+1661544089783,252,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,248,0,211
+1661544090037,833,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,833,0,695
+1661544090204,673,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,69,0,31
+1661544090204,69,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,69,0,31
+1661544090273,604,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,604,0,460
+1661544089783,1099,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,248,0,211
+1661544089783,252,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,248,0,211
+1661544090037,845,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,844,0,695
+1661544090204,690,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,61,0,31
+1661544090204,61,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,61,0,31
+1661544090266,628,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,628,0,466
+1661544089783,1111,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,248,0,211
+1661544089783,252,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,248,0,211
+1661544090037,857,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,857,0,696
+1661544090861,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544090861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544090893,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544090871,86,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544090871,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544090902,55,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,55,0,0
+1661544090877,127,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544090877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544090908,96,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,96,0,0
+1661544090882,123,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544090882,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544090913,92,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,92,0,0
+1661544090894,154,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544090894,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544090925,123,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,123,0,0
+1661544090894,155,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,36,0,0
+1661544090894,36,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,36,0,0
+1661544090930,119,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,119,0,0
+1661544091111,78,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091111,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091143,46,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,46,0,0
+1661544091121,108,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544091121,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544091152,77,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,77,0,0
+1661544091126,130,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544091126,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544091157,99,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,99,0,0
+1661544091131,137,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091162,106,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,106,0,0
+1661544091144,167,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544091144,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544091176,135,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,135,0,0
+1661544091144,210,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544091144,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544091175,179,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,179,0,0
+1661544091370,131,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544091370,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544091401,100,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,100,0,0
+1661544091377,138,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544091377,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544091408,107,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,107,0,0
+1661544091382,184,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091382,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091413,153,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,153,0,0
+1661544091362,213,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091362,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091393,182,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,182,0,0
+1661544091395,197,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544091395,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544091426,166,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,166,0,0
+1661544091394,210,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544091394,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544091425,179,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,179,0,0
+1661544091611,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091611,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091643,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544091622,79,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544091622,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544091652,49,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,49,0,0
+1661544091627,93,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544091627,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544091658,62,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,62,0,0
+1661544091632,107,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091663,76,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,76,0,0
+1661544091644,113,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544091644,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544091675,82,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,82,0,0
+1661544091644,113,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544091644,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544091676,81,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,81,0,0
+1661544091861,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544091861,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544091893,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544091871,81,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,33,0,0
+1661544091871,33,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,33,0,0
+1661544091904,48,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,48,0,0
+1661544091877,90,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544091877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544091908,59,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,58,0,0
+1661544091883,99,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544091883,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544091914,68,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,68,0,0
+1661544091895,103,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544091895,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544091925,73,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,73,0,0
+1661544091895,109,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544091895,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544091926,78,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,78,0,0
+1661544092112,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544092112,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544092144,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544092121,71,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544092121,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544092151,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544092127,82,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544092127,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544092158,51,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,51,0,0
+1661544092131,86,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544092131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544092162,55,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,55,0,0
+1661544092144,107,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544092144,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544092174,77,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,77,0,0
+1661544092145,106,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544092145,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544092176,75,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,75,0,0
+1661544092361,73,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544092361,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544092393,41,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,41,0,0
+1661544092376,99,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544092376,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544092407,68,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,68,0,0
+1661544092370,109,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544092370,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544092401,78,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,78,0,0
+1661544092382,112,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544092382,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544092414,80,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,80,0,0
+1661544092394,119,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544092394,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544092424,89,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,89,0,0
+1661544092394,128,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544092394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544092425,97,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,96,0,0
+1661544092612,105,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544092612,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544092643,74,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,74,0,0
+1661544092621,116,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544092621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544092652,85,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,85,0,0
+1661544092627,114,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544092627,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544092657,84,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,84,0,0
+1661544092632,134,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544092632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544092663,103,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,103,0,0
+1661544092644,125,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544092644,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544092675,94,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,93,0,0
+1661544092644,125,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544092644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544092675,94,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,94,0,0
+1661544092861,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544092861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544092892,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544092870,68,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544092870,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544092901,37,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,37,0,0
+1661544092877,73,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544092877,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544092907,43,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544092883,71,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544092883,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544092914,40,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,40,0,0
+1661544092894,91,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544092894,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544092924,61,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,61,0,0
+1661544092894,91,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544092894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544092925,60,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,60,0,0
+1661544093121,81,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544093121,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544093152,50,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,50,0,0
+1661544093125,98,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544093125,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544093157,66,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,66,0,0
+1661544093132,109,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544093132,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544093163,78,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,78,0,0
+1661544093127,115,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544093127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544093158,84,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,83,0,0
+1661544093144,129,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544093144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544093175,98,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,98,0,0
+1661544093144,137,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,34,0,0
+1661544093144,34,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,34,0,0
+1661544093178,103,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,103,0,0
+1661544093361,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544093361,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544093393,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544093371,73,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544093371,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544093402,42,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544093377,84,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544093377,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544093407,54,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,54,0,0
+1661544093383,81,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544093383,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544093414,50,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,50,0,0
+1661544093394,104,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544093394,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544093425,73,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,73,0,0
+1661544093394,105,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544093394,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544093426,73,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,73,0,0
+1661544093618,92,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544093618,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544093649,61,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,61,0,0
+1661544093621,94,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544093621,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544093651,64,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,64,0,0
+1661544093626,99,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544093626,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544093657,68,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,68,0,0
+1661544093632,94,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544093632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544093663,63,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,63,0,0
+1661544093644,106,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544093644,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544093675,75,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,75,0,0
+1661544093644,106,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544093644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544093675,75,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,75,0,0
+1661544093861,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544093861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544093892,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544093870,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544093870,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544093901,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544093876,96,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544093876,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544093908,64,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,64,0,0
+1661544093881,91,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544093881,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544093912,60,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,60,0,0
+1661544093894,86,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544093894,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544093925,55,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,55,0,0
+1661544093894,95,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544093894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544093925,64,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,64,0,0
+1661544094110,89,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544094110,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544094142,57,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,57,0,0
+1661544094121,100,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544094121,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544094152,69,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,69,0,0
+1661544094127,101,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544094127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544094158,70,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,70,0,0
+1661544094132,102,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544094132,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544094163,71,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,71,0,0
+1661544094145,107,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544094145,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544094176,76,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,76,0,0
+1661544094145,116,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544094145,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544094176,85,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,85,0,0
+1661544094362,94,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544094362,39,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,39,0,0
+1661544094401,55,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,55,0,0
+1661544094372,96,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544094372,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544094402,66,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,66,0,0
+1661544094378,111,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544094378,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544094409,80,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,80,0,0
+1661544094382,122,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,36,0,0
+1661544094382,36,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,36,0,0
+1661544094418,86,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,86,0,0
+1661544094394,113,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544094394,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544094425,82,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,82,0,0
+1661544094394,114,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544094394,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544094426,82,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,81,0,0
+1661544094610,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544094610,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544094642,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544094621,75,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544094621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544094652,44,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,44,0,0
+1661544094626,89,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544094626,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544094657,58,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,58,0,0
+1661544094632,89,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544094632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544094663,58,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,58,0,0
+1661544094644,102,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544094644,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544094674,72,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,72,0,0
+1661544094644,103,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544094644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544094675,72,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,72,0,0
+1661544094865,86,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544094865,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544094897,54,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,54,0,0
+1661544094871,94,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544094871,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544094902,63,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,63,0,0
+1661544094877,138,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544094877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544094908,107,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,107,0,0
+1661544094883,166,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544094883,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544094914,135,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,135,0,0
+1661544094895,189,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544094895,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544094927,157,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,157,0,0
+1661544094895,189,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544094895,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544094926,158,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,158,0,0
+1661544095122,81,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544095122,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544095153,50,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,50,0,0
+1661544095126,170,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544095126,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544095157,139,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,139,0,0
+1661544095127,169,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544095127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544095158,138,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,138,0,0
+1661544095133,193,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544095133,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544095164,162,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,162,0,0
+1661544095145,228,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095145,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095176,197,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,197,0,0
+1661544095145,268,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095145,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095176,237,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,237,0,0
+1661544095361,155,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,34,0,0
+1661544095361,34,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,34,0,0
+1661544095395,121,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,121,0,0
+1661544095383,169,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544095383,38,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,38,0,0
+1661544095421,131,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,131,0,0
+1661544095371,204,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544095371,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544095402,173,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,173,0,0
+1661544095377,203,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544095377,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544095408,172,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,172,0,0
+1661544095394,187,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095425,156,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,156,0,0
+1661544095413,173,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544095413,32,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544095445,141,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,141,0,0
+1661544095612,111,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544095612,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544095644,79,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,79,0,0
+1661544095622,145,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544095622,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544095653,114,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,114,0,0
+1661544095628,140,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544095628,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544095659,109,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,109,0,0
+1661544095634,152,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544095634,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544095665,121,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,121,0,0
+1661544095645,158,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095645,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095676,127,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,127,0,0
+1661544095664,155,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095664,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095695,124,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,124,0,0
+1661544095862,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544095862,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544095893,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544095872,73,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544095872,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544095903,42,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544095878,82,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544095878,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544095909,51,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,51,0,0
+1661544095883,89,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544095883,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544095914,58,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,58,0,0
+1661544095913,92,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095913,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095944,61,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,61,0,0
+1661544095895,111,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544095895,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544095927,79,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,79,0,0
+1661544096121,80,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544096121,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544096153,48,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,48,0,0
+1661544096125,94,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096125,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096157,62,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,62,0,0
+1661544096127,92,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544096127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544096158,61,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,61,0,0
+1661544096133,107,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096133,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096164,76,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,76,0,0
+1661544096144,102,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544096144,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544096176,70,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,70,0,0
+1661544096163,88,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544096163,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544096194,57,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,57,0,0
+1661544096362,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096362,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096393,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544096373,74,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544096373,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544096404,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544096378,91,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544096378,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544096409,60,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,60,0,0
+1661544096384,92,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096384,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096415,61,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,61,0,0
+1661544096396,95,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544096396,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544096427,64,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,64,0,0
+1661544096413,83,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544096413,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544096443,53,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,53,0,0
+1661544096612,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096612,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096643,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544096622,74,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544096622,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544096653,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544096628,78,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544096628,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544096659,47,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,47,0,0
+1661544096633,87,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096633,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096664,56,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,56,0,0
+1661544096645,81,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544096645,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544096676,50,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,50,0,0
+1661544096663,72,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544096663,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544096693,42,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,42,0,0
+1661544096864,73,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544096864,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544096896,41,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,41,0,0
+1661544096871,89,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544096871,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544096902,58,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,58,0,0
+1661544096877,84,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544096877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544096908,53,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,53,0,0
+1661544096883,97,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544096883,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544096914,66,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,66,0,0
+1661544096895,92,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544096895,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544096926,61,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,61,0,0
+1661544096913,82,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544096913,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544096943,52,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,52,0,0
+1661544097122,101,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544097122,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544097153,70,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,70,0,0
+1661544097113,110,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544097113,39,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,39,0,0
+1661544097152,71,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,71,0,0
+1661544097128,103,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544097128,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544097159,72,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,72,0,0
+1661544097133,115,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,40,0,0
+1661544097133,40,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,40,0,0
+1661544097173,75,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,75,0,0
+1661544097146,114,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544097146,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544097177,83,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,83,0,0
+1661544097163,102,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544097163,32,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544097196,69,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,69,0,0
+1661544097363,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544097363,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544097394,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544097372,73,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544097372,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544097402,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544097378,85,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544097378,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544097409,54,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,54,0,0
+1661544097382,89,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544097382,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544097413,58,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,58,0,0
+1661544097395,98,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544097395,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544097426,67,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,67,0,0
+1661544097413,83,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544097413,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544097443,53,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,53,0,0
+1661544097612,98,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544097612,39,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,39,0,0
+1661544097651,59,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,59,0,0
+1661544097622,97,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544097622,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544097653,66,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,66,0,0
+1661544097629,102,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,32,0,0
+1661544097629,32,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,32,0,0
+1661544097661,70,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,70,0,0
+1661544097633,103,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,34,0,0
+1661544097633,34,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,34,0,0
+1661544097667,69,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,69,0,0
+1661544097645,116,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544097663,98,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544097645,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544097663,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544097676,85,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,85,0,0
+1661544097694,67,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,67,0,0
+1661544097861,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544097861,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544097893,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544097872,80,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,32,0,0
+1661544097872,32,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,32,0,0
+1661544097904,48,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,48,0,0
+1661544097883,88,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544097883,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544097914,57,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,57,0,0
+1661544097878,94,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544097878,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544097909,63,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,63,0,0
+1661544097895,109,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544097895,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544097926,78,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,78,0,0
+1661544097912,95,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544097912,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544097943,64,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,64,0,0
+1661544098121,88,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544098121,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544098152,57,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,57,0,0
+1661544098127,93,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544098127,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544098158,62,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,62,0,0
+1661544098128,98,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544098128,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544098159,67,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,67,0,0
+1661544098133,94,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544098133,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544098164,63,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,63,0,0
+1661544098146,107,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544098146,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544098177,76,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,76,0,0
+1661544098163,93,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544098163,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544098194,62,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,62,0,0
+1661544098362,107,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544098362,39,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,39,0,0
+1661544098401,68,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,68,0,0
+1661544098372,100,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544098372,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544098403,69,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,69,0,0
+1661544098378,125,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544098378,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544098409,94,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,94,0,0
+1661544098383,131,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,36,0,0
+1661544098383,36,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,36,0,0
+1661544098419,95,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,95,0,0
+1661544098395,120,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544098395,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544098427,88,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,88,0,0
+1661544098413,108,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,37,0,0
+1661544098413,37,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,37,0,0
+1661544098450,71,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,71,0,0
+1661544098612,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544098612,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544098643,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544098623,74,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544098623,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544098653,44,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,44,0,0
+1661544098628,90,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544098628,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544098659,59,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,59,0,0
+1661544098633,88,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544098633,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544098664,57,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,57,0,0
+1661544098645,98,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544098645,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544098676,67,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,67,0,0
+1661544098663,106,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544098663,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544098693,76,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,76,0,0
+1661544098862,73,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544098862,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544098894,41,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,41,0,0
+1661544098872,74,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544098872,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544098903,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544098878,76,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544098878,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544098909,45,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,45,0,0
+1661544098883,79,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544098883,38,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,38,0,0
+1661544098921,41,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,41,0,0
+1661544098895,76,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544098895,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544098927,44,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,44,0,0
+1661544098913,85,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,41,0,0
+1661544098913,41,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,41,0,0
+1661544098954,44,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,44,0,0
+1661544099112,76,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544099112,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544099143,45,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,45,0,0
+1661544099122,87,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544099122,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544099153,56,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544099132,97,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544099132,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544099163,66,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,66,0,0
+1661544099128,104,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544099128,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544099159,73,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,73,0,0
+1661544099163,126,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544099163,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544099193,96,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,96,0,0
+1661544099145,148,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544099145,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544099176,117,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,117,0,0
+1661544099363,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544099363,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544099394,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544099372,73,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544099372,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544099402,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544099378,74,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544099378,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544099408,44,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,44,0,0
+1661544099383,79,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544099383,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544099413,49,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,49,0,0
+1661544099395,76,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544099395,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544099426,45,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,45,0,0
+1661544099412,72,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544099412,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544099443,41,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,41,0,0
+1661544099612,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544099612,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544099643,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544099621,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544099621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544099652,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544099627,82,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544099627,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544099658,51,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,51,0,0
+1661544099633,78,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544099633,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544099663,48,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,48,0,0
+1661544099645,76,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544099645,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544099676,45,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,45,0,0
+1661544099663,91,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544099663,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544099693,61,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,61,0,0
+1661544099868,84,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544099868,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544099900,52,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,52,0,0
+1661544099871,86,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544099871,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544099901,56,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544099877,105,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544099877,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544099908,74,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,74,0,0
+1661544099881,107,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544099881,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544099912,76,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,76,0,0
+1661544099894,105,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544099894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544099925,74,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,74,0,0
+1661544099912,91,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544099912,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544099943,60,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,60,0,0
+1661544100121,87,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544100121,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544100152,56,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544100127,98,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544100127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544100158,67,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,67,0,0
+1661544100132,105,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544100132,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544100163,74,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,74,0,0
+1661544100120,120,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544100120,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544100152,88,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,88,0,0
+1661544100144,108,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544100144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544100176,76,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,76,0,0
+1661544100161,96,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544100161,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544100192,65,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,65,0,0
+1661544100362,85,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544100371,76,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544100362,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544100371,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544100393,54,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,54,0,0
+1661544100402,45,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,45,0,0
+1661544100377,90,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544100377,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544100408,59,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,59,0,0
+1661544100382,90,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544100382,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544100413,59,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,59,0,0
+1661544100394,98,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544100394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544100425,67,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,67,0,0
+1661544100412,88,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544100412,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544100443,57,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,57,0,0
+1661544100621,98,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544100621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544100652,67,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,67,0,0
+1661544100611,114,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544100611,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544100643,82,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,82,0,0
+1661544100632,110,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544100632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544100663,79,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,79,0,0
+1661544100627,119,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,32,0,0
+1661544100627,32,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,32,0,0
+1661544100659,87,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,87,0,0
+1661544100644,122,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544100644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544100676,90,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,90,0,0
+1661544100662,110,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544100662,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544100693,79,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,79,0,0
+1661544100860,116,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544100860,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544100892,84,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,84,0,0
+1661544100871,116,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544100871,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544100902,85,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,85,0,0
+1661544100877,111,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544100877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544100908,80,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,80,0,0
+1661544100882,137,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544100882,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544100913,106,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,106,0,0
+1661544100894,125,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544100894,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544100926,93,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,93,0,0
+1661544100913,125,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544100913,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544100943,95,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,95,0,0
+1661544101111,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544101111,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544101142,40,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,40,0,0
+1661544101122,76,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544101122,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544101153,45,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,45,0,0
+1661544101127,87,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544101127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544101158,56,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544101132,93,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544101132,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544101162,63,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,63,0,0
+1661544101144,106,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544101144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544101176,74,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,74,0,0
+1661544101162,90,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544101162,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544101193,59,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,59,0,0
+1661544101361,81,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544101361,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544101392,50,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,50,0,0
+1661544101372,86,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544101372,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544101402,56,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544101377,85,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544101377,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544101407,55,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,55,0,0
+1661544101382,97,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544101382,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544101413,66,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,66,0,0
+1661544101394,108,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,33,0,0
+1661544101394,33,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,33,0,0
+1661544101427,75,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,75,0,0
+1661544101412,91,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544101412,32,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544101444,59,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,59,0,0
+1661544101610,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544101610,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544101642,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544101621,74,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544101621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544101652,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544101627,80,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544101627,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544101657,50,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,50,0,0
+1661544101631,93,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544101631,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544101662,62,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,62,0,0
+1661544101643,91,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544101643,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544101674,60,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,60,0,0
+1661544101661,80,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544101661,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544101692,49,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,49,0,0
+1661544101861,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544101861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544101892,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544101871,71,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544101871,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544101902,40,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,40,0,0
+1661544101877,83,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544101877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544101908,52,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,52,0,0
+1661544101882,86,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544101882,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544101912,56,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,56,0,0
+1661544101893,88,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544101893,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544101924,57,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,57,0,0
+1661544101911,87,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544101911,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544101942,56,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,56,0,0
+1661544102116,76,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102116,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102148,44,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,44,0,0
+1661544102128,92,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544102128,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544102158,62,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,62,0,0
+1661544102121,101,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544102121,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544102152,70,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,70,0,0
+1661544102132,100,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544102132,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544102162,70,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,70,0,0
+1661544102143,114,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544102143,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544102175,82,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,82,0,0
+1661544102161,97,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544102161,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544102192,66,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,66,0,0
+1661544102361,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102361,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102392,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544102371,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544102371,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544102402,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544102377,84,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544102377,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544102407,54,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,54,0,0
+1661544102381,80,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102381,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102412,49,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,49,0,0
+1661544102394,77,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544102394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544102425,46,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,46,0,0
+1661544102413,72,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544102413,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544102443,42,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,42,0,0
+1661544102622,114,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102622,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102653,83,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,83,0,0
+1661544102626,118,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544102626,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544102657,87,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,87,0,0
+1661544102631,113,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102631,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102662,82,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,82,0,0
+1661544102621,128,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544102621,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544102652,97,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,97,0,0
+1661544102644,126,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544102644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544102675,95,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,95,0,0
+1661544102662,109,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544102662,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544102692,79,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,79,0,0
+1661544102861,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102893,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544102870,74,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544102870,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544102901,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544102877,92,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544102877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544102908,61,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,61,0,0
+1661544102882,94,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544102882,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544102913,63,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,63,0,0
+1661544102894,99,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544102894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544102925,68,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,68,0,0
+1661544102912,86,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544102912,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544102943,55,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,55,0,0
+1661544103111,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544103111,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544103142,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544103121,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544103121,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544103151,42,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544103127,77,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544103127,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544103158,46,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,46,0,0
+1661544103131,82,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544103131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544103162,51,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,51,0,0
+1661544103144,79,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544103144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544103175,48,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,48,0,0
+1661544103163,71,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544103163,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544103193,41,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,40,0,0
+1661544103361,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544103361,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544103392,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544103370,73,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544103370,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544103401,42,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544103376,87,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544103376,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544103407,56,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544103383,91,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544103383,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544103413,61,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,61,0,0
+1661544103393,83,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544103393,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544103425,51,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,51,0,0
+1661544103411,75,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544103411,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544103442,44,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,44,0,0
+1661544103611,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544103611,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544103643,37,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,37,0,0
+1661544103621,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544103621,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544103652,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544103627,85,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544103627,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544103658,54,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,54,0,0
+1661544103633,87,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544103633,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544103663,57,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,57,0,0
+1661544103644,84,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544103644,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544103676,52,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,52,0,0
+1661544103662,74,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544103662,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544103693,43,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,43,0,0
+1661544103871,69,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544103871,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544103902,38,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,38,0,0
+1661544103877,95,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,37,0,0
+1661544103877,37,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,37,0,0
+1661544103914,58,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,58,0,0
+1661544103867,106,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,47,0,0
+1661544103867,47,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,47,0,0
+1661544103914,59,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,59,0,0
+1661544103882,105,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544103882,32,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544103914,73,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,73,0,0
+1661544103913,94,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544103913,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544103943,64,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,64,0,0
+1661544103894,113,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,32,0,0
+1661544103894,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,32,0,0
+1661544103926,81,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,81,0,0
+1661544104111,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104111,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104142,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544104126,95,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544104126,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544104156,65,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,65,0,0
+1661544104127,105,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544104127,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544104157,75,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,75,0,0
+1661544104131,131,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104162,100,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,100,0,0
+1661544104144,162,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544104144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544104175,131,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,131,0,0
+1661544104162,148,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544104162,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544104192,118,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,118,0,0
+1661544104361,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104361,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104392,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544104370,69,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544104370,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544104401,38,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,38,0,0
+1661544104377,74,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544104377,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544104408,43,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544104382,76,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544104382,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544104412,46,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,46,0,0
+1661544104394,73,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544104394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544104425,42,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,42,0,0
+1661544104412,71,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544104412,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544104442,41,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,41,0,0
+1661544104620,78,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104620,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104651,47,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,47,0,0
+1661544104622,97,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,36,0,0
+1661544104622,36,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,36,0,0
+1661544104627,92,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544104658,61,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,61,0,0
+1661544104627,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544104657,62,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,62,0,0
+1661544104632,102,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104663,71,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,71,0,0
+1661544104645,102,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544104645,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544104676,71,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,71,0,0
+1661544104662,90,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544104662,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544104692,60,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,60,0,0
+1661544104861,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104892,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544104870,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544104870,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544104901,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544104876,79,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544104876,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544104907,48,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,48,0,0
+1661544104881,81,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544104881,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544104913,49,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,49,0,0
+1661544104894,77,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544104894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544104926,45,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,45,0,0
+1661544104913,79,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544104913,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544104943,49,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,49,0,0
+1661544105121,104,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544105121,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544105151,74,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,74,0,0
+1661544105126,145,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544105126,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544105157,114,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,114,0,0
+1661544105131,151,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105162,120,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,120,0,0
+1661544105125,158,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105125,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105156,127,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,127,0,0
+1661544105144,161,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105175,130,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,130,0,0
+1661544105161,153,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105161,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105192,122,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,122,0,0
+1661544105360,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105360,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105391,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544105371,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544105371,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544105401,42,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544105377,74,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544105377,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544105408,43,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544105381,77,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105381,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105412,46,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,46,0,0
+1661544105394,75,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105425,44,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,44,0,0
+1661544105412,71,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544105412,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544105442,41,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,41,0,0
+1661544105611,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105611,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105642,40,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,40,0,0
+1661544105621,87,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544105621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544105652,56,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,56,0,0
+1661544105627,85,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544105627,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544105658,54,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,54,0,0
+1661544105632,90,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105663,59,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,59,0,0
+1661544105644,87,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105675,56,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,56,0,0
+1661544105661,78,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105661,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105692,47,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,47,0,0
+1661544105860,70,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105860,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105891,39,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,39,0,0
+1661544105871,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544105871,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544105902,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544105877,78,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544105877,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544105908,47,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,47,0,0
+1661544105882,90,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544105882,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544105913,59,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,59,0,0
+1661544105894,99,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105925,68,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,68,0,0
+1661544105912,89,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544105912,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544105943,58,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,58,0,0
+1661544106112,82,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544106112,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544106143,51,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,51,0,0
+1661544106121,87,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544106121,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544106151,57,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,57,0,0
+1661544106127,90,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544106127,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544106157,60,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,60,0,0
+1661544106131,99,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544106131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544106162,68,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,68,0,0
+1661544106143,102,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544106143,32,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544106175,70,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,70,0,0
+1661544106162,87,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544106162,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544106192,57,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,57,0,0
+1661544106360,71,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544106360,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544106391,40,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,40,0,0
+1661544106370,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544106370,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544106401,41,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,41,0,0
+1661544106377,90,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544106377,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544106408,59,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,59,0,0
+1661544106382,91,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544106382,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544106412,61,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,61,0,0
+1661544106394,99,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544106394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544106425,68,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,68,0,0
+1661544106412,86,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544106412,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544106442,56,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,56,0,0
+1661544106621,108,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544106621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544106652,77,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,77,0,0
+1661544106624,112,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544106624,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544106655,81,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,81,0,0
+1661544106627,117,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544106627,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544106657,87,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,87,0,0
+1661544106632,124,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544106632,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544106663,93,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,93,0,0
+1661544106646,134,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544106646,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544106677,103,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,103,0,0
+1661544106662,119,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544106662,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544106693,88,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,88,0,0
+1661544106861,83,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,32,0,0
+1661544106861,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,32,0,0
+1661544106893,51,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,51,0,0
+1661544106871,112,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544106871,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544106901,82,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,82,0,0
+1661544106876,119,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544106876,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544106907,88,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,88,0,0
+1661544106882,130,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544106882,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544106912,100,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,100,0,0
+1661544106894,136,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544106894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544106925,105,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,105,0,0
+1661544106912,118,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544106912,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544106942,88,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,88,0,0
+1661544107112,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544107112,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544107143,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544107121,99,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544107121,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544107151,69,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,69,0,0
+1661544107127,94,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544107127,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544107157,64,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,64,0,0
+1661544107133,96,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544107133,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544107163,66,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,66,0,0
+1661544107162,92,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544107162,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544107193,61,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,61,0,0
+1661544107144,110,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544107144,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544107175,79,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,79,0,0
+1661544107361,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544107361,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544107392,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544107371,73,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544107371,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544107401,43,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544107376,77,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544107376,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544107407,46,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,46,0,0
+1661544107382,80,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544107382,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544107412,50,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,50,0,0
+1661544107394,77,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544107394,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544107425,46,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,46,0,0
+1661544107412,72,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544107412,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544107442,42,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,42,0,0
+1661544107621,84,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544107621,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544107652,53,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,53,0,0
+1661544107627,105,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544107627,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544107658,74,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,73,0,0
+1661544107622,110,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544107622,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544107653,79,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,79,0,0
+1661544107632,103,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544107632,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544107663,72,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,72,0,0
+1661544107644,99,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544107644,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544107675,68,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,68,0,0
+1661544107662,88,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544107662,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544107693,57,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,57,0,0
+1661544107861,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544107861,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544107892,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544107871,72,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544107871,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544107901,42,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544107877,81,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544107877,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544107907,51,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,51,0,0
+1661544107882,78,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544107882,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544107912,48,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,48,0,0
+1661544107894,76,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544107894,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544107925,45,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,45,0,0
+1661544107912,83,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544107912,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544107943,52,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,52,0,0
+1661544108120,356,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,33,0,0
+1661544108120,33,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,33,0,0
+1661544108153,323,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,323,0,0
+1661544108112,376,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544108112,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544108143,345,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,345,0,0
+1661544108127,381,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544108127,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544108157,351,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,351,0,0
+1661544108131,386,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544108131,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544108162,355,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,355,0,0
+1661544108144,386,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,34,0,0
+1661544108144,34,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,34,0,0
+1661544108178,352,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,352,0,0
+1661544108162,389,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,34,0,0
+1661544108162,34,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,34,0,0
+1661544108197,354,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,354,0,0
+1661544108477,96,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544108477,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544108507,66,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,66,0,0
+1661544108488,117,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544108488,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544108519,86,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,86,0,0
+1661544108508,127,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544108508,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544108539,96,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,96,0,0
+1661544108530,118,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544108530,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544108561,87,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,87,0,0
+1661544108517,135,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,30,0,0
+1661544108517,30,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,30,0,0
+1661544108547,105,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,105,0,0
+1661544108551,107,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544108551,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544108582,76,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,76,0,0
+1661544108728,70,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544108728,30,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544108759,39,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,39,0,0
+1661544108738,69,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544108738,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544108769,38,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,38,0,0
+1661544108759,73,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544108759,30,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544108790,42,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,42,0,0
+1661544108767,71,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544108767,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544108798,40,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,40,0,0
+1661544108779,73,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544108779,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544108810,42,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,42,0,0
+1661544108801,72,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544108801,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544108831,42,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,42,0,0
+1661544108977,69,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544108977,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544109008,38,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,38,0,0
+1661544108988,68,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544108988,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544109019,37,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,37,0,0
+1661544109008,70,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544109008,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544109039,39,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,39,0,0
+1661544109016,80,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544109016,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544109047,49,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,49,0,0
+1661544109030,82,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544109030,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544109061,51,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,50,0,0
+1661544109051,71,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544109051,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544109081,41,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,41,0,0
+1661544109227,69,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,30,0,0
+1661544109227,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,30,0,0
+1661544109258,38,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,38,0,0
+1661544109239,68,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544109239,31,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544109270,37,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,37,0,0
+1661544109258,74,ships,200,OK,Корабли 2-2,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544109258,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544109289,43,ships-1,200,OK,Корабли 2-2,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,43,0,0
+1661544109266,72,Planets,200,OK,Планета 1-1,text,true,,1239,256,2,6,https://swapi.dev/api/planets/2/,31,0,0
+1661544109266,31,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,2,6,http://swapi.dev/api/planets/2/,31,0,0
+1661544109297,41,Planets-1,200,OK,Планета 1-1,text,true,,863,128,2,6,https://swapi.dev/api/planets/2/,41,0,0
+1661544109280,79,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,31,0,0
+1661544109280,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,31,0,0
+1661544109311,48,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,48,0,0
+1661544109301,71,jedi,200,OK,Джедай 3-2,text,true,,1306,254,2,6,https://swapi.dev/api/people/3/,30,0,0
+1661544109301,30,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,2,6,http://swapi.dev/api/people/3/,30,0,0
+1661544109331,41,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,2,6,https://swapi.dev/api/people/3/,41,0,0
+1661544109476,69,ships,200,OK,Корабли 2-1,text,true,,1301,258,2,6,https://swapi.dev/api/starships/9,31,0,0
+1661544109476,31,ships-0,301,Moved Permanently,Корабли 2-1,text,true,,377,129,2,6,http://swapi.dev/api/starships/9,31,0,0
+1661544109507,38,ships-1,200,OK,Корабли 2-1,text,true,,924,129,2,6,https://swapi.dev/api/starships/9,38,0,0
+1661544109502,79,Planets,200,OK,Планета 1-2,text,true,,1239,256,2,5,https://swapi.dev/api/planets/2/,32,0,0
+1661544109502,32,Planets-0,301,Moved Permanently,Планета 1-2,text,true,,376,128,2,5,http://swapi.dev/api/planets/2/,32,0,0
+1661544109534,47,Planets-1,200,OK,Планета 1-2,text,true,,863,128,2,5,https://swapi.dev/api/planets/2/,47,0,0
+1661544109507,77,ships,200,OK,Корабли 2-2,text,true,,1301,258,1,4,https://swapi.dev/api/starships/9,31,0,0
+1661544109507,31,ships-0,301,Moved Permanently,Корабли 2-2,text,true,,377,129,1,4,http://swapi.dev/api/starships/9,31,0,0
+1661544109538,46,ships-1,200,OK,Корабли 2-2,text,true,,924,129,1,4,https://swapi.dev/api/starships/9,46,0,0
+1661544109516,74,Planets,200,OK,Планета 1-1,text,true,,1239,256,1,3,https://swapi.dev/api/planets/2/,33,0,0
+1661544109516,33,Planets-0,301,Moved Permanently,Планета 1-1,text,true,,376,128,1,3,http://swapi.dev/api/planets/2/,33,0,0
+1661544109549,41,Planets-1,200,OK,Планета 1-1,text,true,,863,128,1,3,https://swapi.dev/api/planets/2/,41,0,0
+1661544109529,73,jedi,200,OK,Джедай 3-1,text,true,,1306,254,2,2,https://swapi.dev/api/people/3/,31,0,0
+1661544109529,31,jedi-0,301,Moved Permanently,Джедай 3-1,text,true,,375,127,2,2,http://swapi.dev/api/people/3/,31,0,0
+1661544109560,42,jedi-1,200,OK,Джедай 3-1,text,true,,931,127,2,2,https://swapi.dev/api/people/3/,42,0,0
+1661544109550,71,jedi,200,OK,Джедай 3-2,text,true,,1306,254,1,1,https://swapi.dev/api/people/3/,31,0,0
+1661544109550,31,jedi-0,301,Moved Permanently,Джедай 3-2,text,true,,375,127,1,1,http://swapi.dev/api/people/3/,31,0,0
+1661544109581,40,jedi-1,200,OK,Джедай 3-2,text,true,,931,127,1,1,https://swapi.dev/api/people/3/,40,0,0
